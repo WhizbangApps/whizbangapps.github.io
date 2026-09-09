@@ -1,0 +1,9 @@
+title: Whizbang Apps
+url: "https://whizbangapps.github.io"
+baseurl: ""
+# Jekyll excludes dotfiles and some top-level files by default; app-ads.txt is
+# plain text with no front matter, so it is copied through untouched. It must
+# stay at the site root — AdMob resolves app-ads.txt against the bare hostname
+# of the developer website, never a project-site subpath.
+include:
+  - app-ads.txt
