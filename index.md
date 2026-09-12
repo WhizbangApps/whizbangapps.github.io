@@ -25,6 +25,12 @@ title: Whizbang Apps
         <p>A teleprompter that scrolls your script in time with your voice.</p>
         <p><a href="/CueCaster/">About</a> · <a href="/CueCaster/privacy">Privacy</a> · <a href="/CueCaster/support">Support</a></p>
       </div>
+      <div class="feature-card">
+        <div class="feature-icon">🎨</div>
+        <h3>Hueby</h3>
+        <p>A pixel colour-by-number game — fill in the numbered squares and watch the picture appear.</p>
+        <p><a href="/hueby/">Support</a> · <a href="/hueby/privacy">Privacy</a></p>
+      </div>
     </div>
   </div>
 </section>
