@@ -58,5 +58,5 @@ title: Hueby — Privacy Policy
   <p>If this policy changes, the updated version will be posted at the same URL with a revised "Last updated" date.</p>
 
   <h2>Contact</h2>
-  <p>Questions? Email us at <a href="mailto:markhmwong@gmail.com">markhmwong@gmail.com</a>. For help with the app itself, see the <a href="{{ '/hueby/' | relative_url }}">support page</a>.</p>
+  <p>Questions? Email us at <a href="mailto:whizbang.apps@gmail.com">whizbang.apps@gmail.com</a>. For help with the app itself, see the <a href="{{ '/hueby/' | relative_url }}">support page</a>.</p>
 </div>

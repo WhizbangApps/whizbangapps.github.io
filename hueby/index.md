@@ -9,7 +9,7 @@ title: Hueby — Support
 
   <p>Hueby is a pixel colour-by-number game for iPhone and iPad: pick a picture, tap the numbered squares, and watch it come together.</p>
 
-  <p>Email <a href="mailto:markhmwong@gmail.com">markhmwong@gmail.com</a> and we'll get back to you. Hueby is made by one person, so a reply can take a few days. If something is going wrong, telling us your device, your iOS version and what you were doing when it happened saves a round trip.</p>
+  <p>Email <a href="mailto:whizbang.apps@gmail.com">whizbang.apps@gmail.com</a> and we'll get back to you. Hueby is made by one person, so a reply can take a few days. If something is going wrong, telling us your device, your iOS version and what you were doing when it happened saves a round trip.</p>
 
   <h2>Common questions</h2>
 
@@ -44,5 +44,5 @@ title: Hueby — Support
   <p>Hueby does not collect, store or transmit personal data. The full policy is on the <a href="{{ '/hueby/privacy' | relative_url }}">privacy page</a>.</p>
 
   <h2>Contact</h2>
-  <p>Email <a href="mailto:markhmwong@gmail.com">markhmwong@gmail.com</a>.</p>
+  <p>Email <a href="mailto:whizbang.apps@gmail.com">whizbang.apps@gmail.com</a>.</p>
 </div>
