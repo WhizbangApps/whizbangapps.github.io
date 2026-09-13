@@ -29,7 +29,7 @@ title: Whizbang Apps
         <div class="feature-icon">🎨</div>
         <h3>Hueby</h3>
         <p>A pixel colour-by-number game — fill in the numbered squares and watch the picture appear.</p>
-        <p><a href="/hueby/">Support</a> · <a href="/hueby/privacy">Privacy</a></p>
+        <p><a href="/Hueby/">About</a> · <a href="/Hueby/privacy">Privacy</a> · <a href="/Hueby/support">Support</a></p>
       </div>
     </div>
   </div>
