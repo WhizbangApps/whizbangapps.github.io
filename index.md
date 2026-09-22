@@ -31,6 +31,12 @@ title: Whizbang Apps
         <p>A pixel colour-by-number game — fill in the numbered squares and watch the picture appear.</p>
         <p><a href="/Hueby/">About</a> · <a href="/Hueby/privacy">Privacy</a> · <a href="/Hueby/support">Support</a></p>
       </div>
+      <div class="feature-card">
+        <div class="feature-icon">📸</div>
+        <h3>Luma</h3>
+        <p>Edit a photo once, then export a correctly framed set for every platform.</p>
+        <p><a href="/Luma/">About</a> · <a href="/Luma/privacy">Privacy</a> · <a href="/Luma/support">Support</a></p>
+      </div>
     </div>
   </div>
 </section>
