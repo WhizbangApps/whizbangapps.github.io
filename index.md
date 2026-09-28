@@ -37,6 +37,18 @@ title: Whizbang Apps
         <p>Edit a photo once, then export a correctly framed set for every platform.</p>
         <p><a href="/Luma/">About</a> · <a href="/Luma/privacy">Privacy</a> · <a href="/Luma/support">Support</a></p>
       </div>
+      <div class="feature-card">
+        <div class="feature-icon">🎞️</div>
+        <h3>Henka</h3>
+        <p>Convert, compress and share videos, with one-tap presets for every platform.</p>
+        <p><a href="/Henka/">About</a> · <a href="/Henka/privacy">Privacy</a> · <a href="/Henka/support">Support</a></p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🎉</div>
+        <h3>Celebrate</h3>
+        <p>Count down to birthdays, trips and every big day, with photo and pastel cards and gentle reminders.</p>
+        <p><a href="/Celebrate/">About</a> · <a href="/Celebrate/privacy">Privacy</a> · <a href="/Celebrate/support">Support</a></p>
+      </div>
     </div>
   </div>
 </section>
